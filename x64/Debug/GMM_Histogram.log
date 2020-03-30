@@ -1,0 +1,32 @@
+﻿  main.cpp
+E:\code\cpp1\GMM_Histogram\main.cpp(55,19): warning C4244: “初始化”: 从“_Tp”转换到“float”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+E:\code\cpp1\GMM_Histogram\main.cpp(56,20): warning C4244: “初始化”: 从“_Tp”转换到“float”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+E:\code\cpp1\GMM_Histogram\main.cpp(57,18): warning C4244: “初始化”: 从“_Tp”转换到“float”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+E:\code\cpp1\GMM_Histogram\main.cpp(58,68): warning C4244: “参数”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+E:\code\cpp1\GMM_Histogram\main.cpp(59,69): warning C4244: “参数”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+E:\code\cpp1\GMM_Histogram\main.cpp(60,67): warning C4244: “参数”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+  GMM_Histogram.vcxproj -> E:\code\cpp1\cv1\x64\Debug\GMM_Histogram.exe
